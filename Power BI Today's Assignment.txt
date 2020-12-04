@@ -1,0 +1,8 @@
+1. Watch Previous videos and Practice
+
+	SQL Server Installation and connecting to view, procedure, function
+	SSAS cube restore and connect
+
+2. Data Model Video Watching and document reading
+   { Call me in case you get stuck}
+
